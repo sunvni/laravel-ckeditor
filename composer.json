@@ -13,6 +13,10 @@
 		{
 			"name":  "UniSharp Ltd. (Composer Package Maintainer)",
 			"homepage": "http://www.unisharp.com"
+		},
+		{
+			"name": "Hoang Hieu",
+			"homepage": "https://hyou.dev"
 		}
 	],
 	"support": {
@@ -27,7 +31,7 @@
 		}
 	},
 	"require": {
-		"illuminate/support": "~5.0|^6.0"
+		"illuminate/support": "~5.0||6.0"
 	},
 	"minimum-stability": "dev",
 	"extra": {
